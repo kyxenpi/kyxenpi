@@ -1,10 +1,14 @@
 <!-- minimal black & white profile -->
 
+<div align="center">
+
+<div style="max-width: 800px; width: 100%;">
+
 <p align="center">
-  <img src="banner.png" width="100%" />
+  <img src="banner.png" width="800px" />
 </p>
 
-<br>
+<br><br>
 
 <table width="100%" cellpadding="0" cellspacing="0">
 <tr>
@@ -33,10 +37,30 @@ Everything I build aims to be simple, fast and practical.
 </tr>
 </table>
 
+</div>
+
+</div>
+
 <br>
 
 <p align="center">
   <a href="https://kmfolio.netlify.app/">
-    <img src="https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
+  &nbsp;
+  <a href="https://github.com/kyxenpi">
+    <img src="https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/cli-000000?style=for-the-badge&logo=gnubash&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/backend-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/git-000000?style=for-the-badge&logo=git&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/logic-000000?style=for-the-badge&logo=prolog&logoColor=white" />
 </p>
