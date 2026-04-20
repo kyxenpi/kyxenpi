@@ -1,140 +1,42 @@
-<!-- KmDev — Minimal Linux Developer Profile -->
+<!-- minimal black & white profile -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ffb76e&height=170&section=header&text=KmDev&fontSize=76&fontColor=ffffff"/>
+<p align="center">
+  <img src="banner.png" width="100%" />
+</p>
 
-<div align="center">
+<br>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&duration=4000&pause=1000&color=FF7A00&center=true&vCenter=true&width=900&lines=python+developer;linux+power+user;automation+%26+backend+with+flask" />
-</a>
-
-Desenvolvedor Python • Linux • Automação & Backend
-
-</div>
-
-
-
-<div align="center">
-
-```
-whoami
-kmdev
-
-stack
-python | flask | linux | cli
-```
-
-</div>
-
-
-<div align="center">
-
-## Áreas
-
-<table>
+<table width="100%" cellpadding="0" cellspacing="0">
 <tr>
-<td width="33%" align="center" valign="top">
 
-### Linux / CLI
-Scripts  
-Dotfiles  
-Workflow customizado  
+<td width="55%" align="left" valign="middle">
 
-</td>
-<td width="33%" align="center" valign="top">
+<p>
 
-### Python
-Automação  
-Ferramentas CLI  
-Utilitários  
+<b>about</b><br><br>
 
-</td>
-<td width="33%" align="center" valign="top">
+Python developer focused on automation, backend and efficiency.<br><br>
 
-### Backend
-Flask  
-REST APIs  
-Auth & lógica  
+I use Linux as my main system and treat the CLI as a core part of my workflow.<br>
+Everything I build aims to be simple, fast and practical.
+
+</p>
 
 </td>
+
+<td width="45%" align="center" valign="middle">
+
+<img src="logo.png" width="140px" />
+
+</td>
+
 </tr>
 </table>
 
-</div>
+<br>
 
-
-
-<div align="center">
-
-## Stack
-
-<img src="https://skillicons.dev/icons?i=linux,python,flask,bash,git,github,html,css,js,postgresql,supabase&perline=11&theme=dark" />
-
-</div>
-
-
-
-<div align="center">
-
-## Projetos
-
-<table>
-<tr>
-<td width="50%" align="center" valign="top">
-
-### Serpentia
-Laboratório interativo para aprendizado  
-e experimentação em Python.
-
-</td>
-<td width="50%" align="center" valign="top">
-
-### Rhodium
-Ferramentas de automação  
-e organização pessoal.
-
-</td>
-</tr>
-
-<tr>
-<td align="center" valign="top">
-
-### Task Tracker CLI
-Gerenciador de tarefas  
-via terminal.
-
-</td>
-<td align="center" valign="top">
-
-### PDFinder
-Buscador inteligente  
-de PDFs acadêmicos.
-
-</td>
-</tr>
-</table>
-
-</div>
-
-
-
-<div align="center">
-
-## GitHub
-
-<img src="https://github-readme-stats.vercel.app/api?username=kmdev-cmd&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=ffb76e&icon_color=ffb76e" />
-
-</div>
-
----
-
-<div align="center">
-
-
-
-Portfólio  
-https://kmfolio.netlify.app/
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ffb76e&height=170&section=footer"/>
+<p align="center">
+  <a href="https://kmfolio.netlify.app/">
+    <img src="https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
