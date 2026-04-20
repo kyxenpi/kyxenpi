@@ -44,7 +44,7 @@ Everything I build aims to be simple, fast and practical.
 <br>
 
 <p align="center">
-  <a href="https://kmfolio.netlify.app/">
+  <a href="https://kyxen.netlify.app/">
     <img src="https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   &nbsp;
@@ -58,7 +58,7 @@ Everything I build aims to be simple, fast and practical.
   &nbsp;
   <img src="https://img.shields.io/badge/cli-000000?style=for-the-badge&logo=gnubash&logoColor=white" />
   &nbsp;
-  <img src="https://img.shields.io/badge/backend-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/frontend-000000?style=for-the-badge&logo=css&logoColor=white" />
   &nbsp;
   <img src="https://img.shields.io/badge/git-000000?style=for-the-badge&logo=git&logoColor=white" />
   &nbsp;
