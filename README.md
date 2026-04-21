@@ -17,12 +17,10 @@
 
 <p>
 
-<b>about</b><br><br>
-
-Python developer focused on automation, backend and efficiency.<br><br>
-
-I use Linux as my main system and treat the CLI as a core part of my workflow.<br>
-Everything I build aims to be simple, fast and practical.
+<h1>Sobre mim</h1>
+<b>Desenvolvedor Python focado em automação, backend e eficiência.</b><br>
+Utilizo Linux como meu sistema principal e considero a linha de comando (CLI) uma parte essencial do meu fluxo de trabalho.<br>
+Tudo o que eu construo visa ser simples, rápido e prático.<br><br>
 
 </p>
 
